@@ -1,12 +1,8 @@
-<h3 align="left">Hi 👋! I'm a passionate computer science student and an AI enthusiast.</h3>
+<h2 align="left">Hi 👋! I'm a passionate computer science student and an AI enthusiast.</h2>
 
 ###
 
-<p align="left">Education: Bachelor's in Computer Science - BRAC University (2023-2027)</p>
-
-###
-
-<h4 align="left">Mail: officiallyakn@gmail.com</h4>
+<h3 align="left">Education: Bachelor's in Computer Science - BRAC University (2023-2027)<br><br>Mail: officiallyakn@gmail.com</h3>
 
 ###
 
