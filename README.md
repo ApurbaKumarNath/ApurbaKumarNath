@@ -40,8 +40,10 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apurbakumarnath&show_icons=true&locale=en&layout=compact" alt="apurbakumarnath" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=apurbakumarnath&show_icons=true&locale=en" alt="apurbakumarnath" />
 <table align = "center">
-<tr><td align = "center"><img src="https://github-readme-stats.vercel.app/api?username=apurbakumarnath&show_icons=true&locale=en" alt="apurbakumarnath"/></td>
+<tr><td align = "center"></td>
 
 <td align = "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=apurbakumarnath&" alt="apurbakumarnath" /></td></tr>
 </table>
